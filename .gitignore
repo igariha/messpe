@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environment (if used)
+venv/
+.venv/
+env/
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+dist-ssr/
